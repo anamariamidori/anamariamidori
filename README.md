@@ -12,8 +12,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img  align="right" src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif?cid=ecf05e4791krrn3nwl14ctonge2xumulkjz8gmtdh81xsoad&rid=giphy.gif&ct=g" width="120" height="120" />
 </div>
