@@ -6,7 +6,7 @@
 - 😄 Pronomes: ela/dela/she/her
 
 <div>
-  <a href="https://github.com/anamariamidori">
+  <a href="https://github.com/anamariamidori?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamariamidori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariamidori&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
