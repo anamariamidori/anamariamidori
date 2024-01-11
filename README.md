@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Estudando pela Digital Innovacion One e PUCPR
+- 🌱 Estudante de Engenharia da Computação PUCPR
 - 😄 Pronomes: ela/dela/she/her
 
 <div>
