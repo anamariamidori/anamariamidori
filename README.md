@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou a Ana Maria Midori
+### Olá! 👋 Eu sou a Midori
 
 ##
 
